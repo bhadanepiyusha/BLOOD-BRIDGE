@@ -1,0 +1,9 @@
+BLOOD BRIDGE - CHANGE CONTROL LOG
+
+CR-01:
+Added Exp3_SE.pdf and Gantt_Chart.pdf to the project repository.
+Status: Approved and Merged.
+
+CR-02:
+Added change control documentation for version tracking.
+Status: Approved and Merged.
